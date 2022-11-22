@@ -30,10 +30,12 @@
 <hr/>
 
 <div align="center">
-<h3>My Stack</h3>
-<ul >
-  <li align="center">Capable understanding of programming techniques and common logics.</li>
-  <li>Advanced english.</li>
-  <li>Clever usage of languages and libraries documentations.</li>
-</ul>
+  <h3>About Me</h3>
+  <ul>
+    <li>Independent, but ready to help others and ask for help if needed.</li>
+    <li>Capable understanding of programming techniques and common logics.</li>
+    <li>Good at Object Oriented Programming.</li>
+    <li>Clever usage of languages and libraries documentations.</li>
+    <li>Advanced english.</li>
+  </ul>
 </div>
