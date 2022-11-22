@@ -26,5 +26,14 @@
 
 
 <hr/>
-  <h3 align="center">My <a href="https://germangab1781.github.io/Portfolio/">Portfolio</a> </h3>
+  <h3 align="center">My <a href="https://germangab1781.github.io/Portfolio/" target="_blank" rel="noreferrer">Portfolio</a> </h3>
 <hr/>
+
+<div align="center">
+<h3>My Stack</h3>
+<ul >
+  <li align="center">Capable understanding of programming techniques and common logics.</li>
+  <li>Advanced english.</li>
+  <li>Clever usage of languages and libraries documentations.</li>
+</ul>
+</div>
