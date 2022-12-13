@@ -32,7 +32,6 @@
 <div align="center">
   <h3>About Me</h3>
   <ul>
-    <li>Independent, but ready to help others and ask for help if needed.</li>
     <li>Capable understanding of programming techniques and common logics.</li>
     <li>Good at Object Oriented Programming.</li>
     <li>Clever usage of languages and libraries documentations.</li>
