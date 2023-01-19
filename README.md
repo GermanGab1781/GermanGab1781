@@ -26,15 +26,14 @@
 
 
 <hr/>
-  <h3 align="center">My <a href="https://germangab1781.github.io/Portfolio/" target="_blank" rel="noreferrer">Portfolio</a> </h3>
+  <h3 align="center">My <a href="https://portfolio-three-mauve-54.vercel.app/" target="_blank" rel="noreferrer">Portfolio</a> </h3>
 <hr/>
 
 <div align="center">
   <h3>About Me</h3>
   <ul>
-    <li>Capable understanding of programming techniques and common logics.</li>
-    <li>Good at Object Oriented Programming.</li>
-    <li>Clever usage of languages and libraries documentations.</li>
-    <li>Advanced english.</li>
+    <li>I like to work in a team based enviorment learning from everything and everyone.</li>
+    <li>Competitive in a healthy manner pushing to improve myself.</li>
+    <li>Independent, but ready to help others and ask for help if needed.</li>
   </ul>
 </div>
