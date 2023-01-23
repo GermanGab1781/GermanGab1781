@@ -26,7 +26,7 @@
 
 
 <hr/>
-  <h3 align="center">My <a href="https://portfolio-three-mauve-54.vercel.app/" target="_blank" rel="noreferrer">Portfolio</a> </h3>
+  <h3 align="center">My <a href="https://german-gabriel.com" target="_blank" rel="noreferrer">Portfolio</a> </h3>
 <hr/>
 
 <div align="center">
